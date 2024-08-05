@@ -1,2 +1,3 @@
 ## 📖Projetos desenvolvidos para o arduino📖
-* Piscar LED
+* Piscar LEDs
+* Piscar dois LEDs
