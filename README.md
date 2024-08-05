@@ -1,3 +1,5 @@
 ## 📖Projetos desenvolvidos para o arduino📖
-* Piscar LEDs
+* Piscar LED
 * Piscar dois LEDs
+* Semaforo LEDs
+* Display de segmentos(Dado)
